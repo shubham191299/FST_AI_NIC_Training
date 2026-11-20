@@ -1,0 +1,15 @@
+name: fstenv
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - ipykernel
+  - jupyter
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - keras
+  - tensorflow
+  - opencv
+prefix: /opt/miniconda3/envs/fstenv
